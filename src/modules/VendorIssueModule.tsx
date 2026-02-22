@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> ea2b60370e32f18454b4b30c524aa7881340b2ee
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import bus from '../utils/eventBus';
 import { onAuthStateChanged } from 'firebase/auth';
@@ -922,4 +925,8 @@ const VendorIssueModule: React.FC = () => {
   );
 };
 
+<<<<<<< HEAD
 export default VendorIssueModule; 
+=======
+export default VendorIssueModule;
+>>>>>>> ea2b60370e32f18454b4b30c524aa7881340b2ee
